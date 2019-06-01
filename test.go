@@ -9,6 +9,7 @@ func main() {
 			"message": "pong",
 			"test":    "test",
 			"heroku":  "heroku",
+			"view":    "view",
 		})
 	})
 
