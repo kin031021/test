@@ -8,6 +8,7 @@ func main() {
 		c.JSON(200, gin.H{
 			"message": "pong",
 			"test":    "test",
+			"heroku":  "heroku",
 		})
 	})
 
